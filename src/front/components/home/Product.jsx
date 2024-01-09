@@ -25,7 +25,6 @@ function Product() {
     );
   });
 
-   
   useEffect(() => {
     getBarangs();
   }, []);
